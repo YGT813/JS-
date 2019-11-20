@@ -82,4 +82,4 @@ b.js基础
 		2>日期对象
 			日期对象一个典型的应用就是获取当前时间
 			https://www.w3school.com.cn/js/jsref_obj_date.asp
-
+			注意：日期对象获取数据是是获取上一个月的月份
